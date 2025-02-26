@@ -12,7 +12,6 @@ function calculateStudentGrade(score) {
     return "F";
   }
 
-
 // Example case
 let johnGrade = calculateStudentGrade(30);
 let lisaGrade = calculateStudentGrade(73);

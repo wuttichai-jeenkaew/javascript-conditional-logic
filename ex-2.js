@@ -10,5 +10,6 @@ if (lightBulbStatus === "On") {
     console.log("Light bulb is Off.");
   } else {
     console.log("Please choose the correct input (On/Off/Broken)");
+    
   }
   
