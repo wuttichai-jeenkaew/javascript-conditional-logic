@@ -15,4 +15,5 @@ addFavoriteBook("The Beauty of Living Twice");
 addFavoriteBook("Black Beauty");
 addFavoriteBook("Monstrous Beauty");
 
+
 console.log(favoriteBooks);
